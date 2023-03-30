@@ -64,7 +64,7 @@ function Section5() {
 					Gratis tiket liburan untuk 100 orang nih, kamu mau?
 				</h3>
 
-				<div action="#" className="space-y-4">
+				<div className="space-y-4">
 					<div className="flex flex-col gap-y-2">
 						<label htmlFor="ktp" className="text-[14px]">
 							Nama Asli sesuai KTP
