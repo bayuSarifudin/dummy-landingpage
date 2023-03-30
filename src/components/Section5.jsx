@@ -70,7 +70,7 @@ function Section5() {
 							Nama Asli sesuai KTP
 						</label>
 						<input
-							className="p-4 border-none rounded-lg outline-none placeholder:text-text-placeholder"
+							className="p-4 text-black border-none rounded-lg outline-none placeholder:text-text-placeholder"
 							type="text"
 							name="ktp"
 							id="ktp"
@@ -82,7 +82,7 @@ function Section5() {
 							No. Hp kamu
 						</label>
 						<input
-							className="p-4 border-none rounded-lg outline-none placeholder:text-text-placeholder"
+							className="p-4 text-black border-none rounded-lg outline-none placeholder:text-text-placeholder"
 							type="text"
 							name="hp"
 							id="hp"
